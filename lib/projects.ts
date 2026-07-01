@@ -70,7 +70,7 @@ export const projects: Project[] = [
         "Realtime collaboration and vault-based scheduled jobs for background processing.",
       ],
       results:
-        "Live at ourmind.life. Open-sourced as OneMind.Life. // TODO: add user numbers / traction if you want.",
+        "Live at ourmind.life and open-sourced as OneMind.Life.",
     },
   },
   {
@@ -95,8 +95,6 @@ export const projects: Project[] = [
         "MOVDA scoring and a 2-in-a-row winner rule to decide when the panel has actually converged.",
         "Supabase edge functions (Deno 2 runtime) orchestrating the model calls and persistence.",
       ],
-      results:
-        "// TODO: add what you learned / any backtest results.",
     },
   },
   {
@@ -122,8 +120,7 @@ export const projects: Project[] = [
         "AI vision integration to identify the meal and estimate calories/macros.",
         "Clean, fast UX designed to remove friction from daily tracking.",
       ],
-      results:
-        "Delivered as an Upwork contract. // TODO: add outcome/feedback if shareable.",
+      results: "Delivered as a client project through Upwork.",
     },
   },
   {
@@ -148,7 +145,8 @@ export const projects: Project[] = [
         "Market ingestion, LLM-driven analysis, and decision logic.",
         "Deno-based edge functions for scheduled evaluation.",
       ],
-      results: "Experimental. // TODO: add findings.",
+      results:
+        "An ongoing experiment in applying automated reasoning to live, real-money prediction markets.",
     },
   },
 

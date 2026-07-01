@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { site } from "@/lib/site";
+import { ThemeToggle } from "./ThemeToggle";
 
 // Sticky, minimal nav — 4 items (research: "max 7" is a myth; sticky aids
 // discoverability). Name on the left (F-pattern), links on the right.
@@ -26,6 +27,7 @@ export function Nav() {
           >
             Email
           </a>
+          <ThemeToggle />
         </div>
       </nav>
     </header>

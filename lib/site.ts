@@ -22,10 +22,11 @@ export const site = {
   ],
 
   links: {
-    github: "https://github.com/", // TODO: your GitHub profile
-    upwork: "https://www.upwork.com/freelancers/", // TODO: your public Upwork profile URL
-    linkedin: "", // TODO (optional)
-    x: "", // TODO (optional)
+    github: "https://github.com/joelc0193",
+    // Paste your public Upwork profile URL here to show the link (left blank so it doesn't render a broken link):
+    upwork: "",
+    linkedin: "", // optional
+    x: "", // optional
   },
 } as const;
 
