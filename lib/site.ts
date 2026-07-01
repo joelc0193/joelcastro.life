@@ -23,8 +23,7 @@ export const site = {
 
   links: {
     github: "https://github.com/joelc0193",
-    // Paste your public Upwork profile URL here to show the link (left blank so it doesn't render a broken link):
-    upwork: "",
+    upwork: "https://www.upwork.com/freelancers/~016a75b9bef1a53fec",
     linkedin: "", // optional
     x: "", // optional
   },
